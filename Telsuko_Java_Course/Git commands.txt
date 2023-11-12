@@ -1,0 +1,8 @@
+# add, commit and push
+git add .
+git commit -a -m "commit" #(do not need commit message either)
+git push
+
+# GitHub: invalid username or password
+# https://stackoverflow.com/questions/29297154/github-invalid-username-or-password
+git push origin master
