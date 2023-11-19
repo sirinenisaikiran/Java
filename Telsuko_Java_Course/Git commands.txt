@@ -6,3 +6,8 @@ git push
 # GitHub: invalid username or password
 # https://stackoverflow.com/questions/29297154/github-invalid-username-or-password
 git push origin master
+
+
+#
+git config --global user.name "Saikiran Sirineni" #Sets the name of the user for all git instances on the system
+git config --global user.email "saikiran.sirineni@gmail.com"
